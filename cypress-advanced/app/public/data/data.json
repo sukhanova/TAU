@@ -1,6 +1,71 @@
 {
-  "boards": [],
-  "tasks": [],
+  "boards": [
+    {
+      "name": "Test",
+      "user": 0,
+      "id": 3529130557,
+      "starred": false,
+      "created": "2021-09-12"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 3529130557,
+      "description": "",
+      "completed": false,
+      "listId": 31469440384,
+      "title": "cake",
+      "id": 40884208922,
+      "created": "2021-09-12",
+      "deadline": "2021-09-15",
+      "order": 1
+    },
+    {
+      "boardId": 3529130557,
+      "description": "",
+      "completed": false,
+      "listId": 31469440384,
+      "title": "bread",
+      "id": 11826099328,
+      "created": "2021-09-12",
+      "deadline": "2021-09-14",
+      "order": 0
+    },
+    {
+      "boardId": 3529130557,
+      "description": "",
+      "completed": false,
+      "listId": 13482643445,
+      "title": "bread",
+      "id": 68374429874,
+      "created": "2021-09-12",
+      "deadline": "2021-09-15"
+    },
+    {
+      "boardId": 3529130557,
+      "description": "",
+      "completed": false,
+      "listId": 31469440384,
+      "title": "oranges",
+      "id": 36594021707,
+      "created": "2021-09-12",
+      "deadline": "2021-09-15"
+    }
+  ],
   "users": [],
-  "lists": []
+  "lists": [
+    {
+      "boardId": 3529130557,
+      "title": "groceries",
+      "id": 31469440384,
+      "created": "2021-09-12",
+      "order": 0
+    },
+    {
+      "boardId": 3529130557,
+      "title": "inFridge",
+      "id": 13482643445,
+      "created": "2021-09-12"
+    }
+  ]
 }

@@ -3,7 +3,7 @@
 beforeEach(() => {
 
   cy
-    .visit('/board/2305140181')
+    .visit('board/3529130557')
 })
 
 it('Multiple assertions', () => {
@@ -15,7 +15,7 @@ it('Multiple assertions', () => {
         throw new Error('Not enough elements!')
       }
       expect(item[0]).to.contain.text('bread')
-      expect(item[1]).to.contain.text('milk')
+      expect(item[1]).to.contain.text('cake')
     })
 
 })
